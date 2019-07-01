@@ -44,4 +44,4 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:1001/eureka,http://127.0.0.1:1002/eureka   
 message: I love you!
-env: dev
+env: test
