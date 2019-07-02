@@ -37,7 +37,7 @@ spring:
       trace:
         enabled: true
 server:
-  port: 2001
+  port: 2101
 eureka:
   client:
     #Enable health check
